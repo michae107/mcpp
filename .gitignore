@@ -1,0 +1,10 @@
+Makefile
+config.log
+config.status
+libtool
+src/Makefile
+*.o
+src/stamp-h1
+tests/Makefile
+src/config.h
+src/mcpp
